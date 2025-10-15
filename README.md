@@ -1,5 +1,4 @@
-# TravelWall
-### HTML/CSS
+# TravelWall | HTML/CSS 
 
 ## Hard Skills I Demonstrated: 
 ### HTML Structure & Semantics  
